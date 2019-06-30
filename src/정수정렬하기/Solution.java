@@ -54,7 +54,7 @@ public class Solution {
 				}
 				else {
 					ans -= ar[i];
-				}
+				} 
 			}
 			bw.write("Case #"+t+"\n");
 			bw.write(ans+"\n");

@@ -19,7 +19,7 @@ public class Solution {
 			int max = -1;
 			for(int i = 0; i < num ; i++) {
 				ar[i] = Integer.parseInt(br.readLine());
-				if(max < ar[i]) {
+				if(max < ar[i]) { 
 					max = ar[i];
 				}
 			}
